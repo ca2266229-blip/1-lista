@@ -11,8 +11,8 @@ http://138.59.177.78:9999/play/a0ki/index.m3u8
 #EXTINF:-1,Espn - Premiun
 http://rlatinop.com:8880/jonel2026/pcBhGe7KbccQ/167727
 
-#EXTINF:-1,Canal 2 - Ejemplo
-https://ejemplo.com/stream2.m3u8
+#EXTINF:-1,Bein Sport - Ejemplo
+http://190.83.9.222:8000/play/ca129/index.m3u8
 
 #EXTINF:-1,Canal 3 - Ejemplo
 https://ejemplo.com/stream3.m3u8
