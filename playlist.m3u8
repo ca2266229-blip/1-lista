@@ -2,35 +2,35 @@
 #EXT-X-VERSION:3
 #EXT-X-TARGETDURATION:10
 
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x300?text=Sky+Sports",Sky Sports
+#EXTINF:-1,Sky Sports
 http://190.83.9.222:8000/play/ca090/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x300?text=ESPN+2",ESPN 2 La Liga
+#EXTINF:-1,ESPN 2 La Liga
 http://tvpremium.pro:8080/ilianaargue289/5QYFvdMFZh/61831
 
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x300?text=ESPN+Premium",Espn - Premiun
+#EXTINF:-1,Espn - Premiun
 http://rlatinop.com:8880/jonel2026/pcBhGe7KbccQ/167727
 
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x300?text=Bein+Sport",Bein Sport 
+#EXTINF:-1,Bein Sport
 http://190.83.9.222:8000/play/ca129/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x300?text=Dreamworks",Dreamwors
+#EXTINF:-1,Dreamwors
 http://tvpremium.pro:8080/ilianaargue289/5QYFvdMFZh/1621249
 
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x300?text=Mario+Galaxy",Mario Galaxy
+#EXTINF:-1,Mario Galaxy
 http://tvpremium.pro:8080/movie/ilianaargue289/5QYFvdMFZh/1947269.mkv
 
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x300?text=24/7+Iron+Man",24/7 Iron Man
+#EXTINF:-1,24/7 Iron Man
 http://tvpremium.pro:8080/ilianaargue289/5QYFvdMFZh/806208
 
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x300?text=24/7+Marvel",24/7 Exclusivo Marvel
+#EXTINF:-1,24/7 Exclusivo Marvel
 http://tvpremium.pro:8080/ilianaargue289/5QYFvdMFZh/789639
 
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x300?text=24/7+Disney",24/7 Disney Películas
+#EXTINF:-1,24/7 Disney Películas
 http://tvpremium.pro:8080/ilianaargue289/5QYFvdMFZh/1598520
 
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x300?text=24/7+Rapido+y+Furioso",24/7 Rápido y Furioso
+#EXTINF:-1,24/7 Rápido y Furioso
 http://tvpremium.pro:8080/ilianaargue289/5QYFvdMFZh/458357
 
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x300?text=Sing+2",sing 2
+#EXTINF:-1,Sing 2
 http://tvpremium.pro:8080/movie/ilianaargue289/5QYFvdMFZh/1651688.mkv
