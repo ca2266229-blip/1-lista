@@ -1,0 +1,15 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+
+#EXTINF:-1,Canal 1 - Ejemplo
+https://ejemplo.com/stream1.m3u8
+
+#EXTINF:-1,Canal 2 - Ejemplo
+https://ejemplo.com/stream2.m3u8
+
+#EXTINF:-1,Canal 3 - Ejemplo
+https://ejemplo.com/stream3.m3u8
+
+#EXTINF:-1,Película - Ejemplo
+https://ejemplo.com/pelicula.m3u8
