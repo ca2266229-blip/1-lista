@@ -17,7 +17,7 @@ http://190.83.9.222:8000/play/ca129/index.m3u8
 #EXTINF:-1,Dreamwors
 http://tvpremium.pro:8080/ilianaargue289/5QYFvdMFZh/1621249
 
-#EXTINF:-1,Mario Galaxy
+#EXTINF:-1 group-title="Películas",Mario Galaxy
 http://tvpremium.pro:8080/movie/ilianaargue289/5QYFvdMFZh/1947269.mkv
 
 #EXTINF:-1,24/7 Iron Man
@@ -32,10 +32,10 @@ http://tvpremium.pro:8080/ilianaargue289/5QYFvdMFZh/1598520
 #EXTINF:-1,24/7 Rápido y Furioso
 http://tvpremium.pro:8080/ilianaargue289/5QYFvdMFZh/458357
 
-#EXTINF:-1,Sing 1
+#EXTINF:-1 group-title="Películas",Sing 1
 http://tvpremium.pro:8080/movie/ilianaargue289/5QYFvdMFZh/1542348.mp4
 
-#EXTINF:-1,Sing 2
+#EXTINF:-1 group-title="Películas",Sing 2
 http://tvpremium.pro:8080/movie/ilianaargue289/5QYFvdMFZh/1651688.mkv
 
 #EXTINF:-1,24/7 Will Smitt
@@ -62,7 +62,7 @@ http://rlatinop.com:8880/jonel2026/pcBhGe7KbccQ/520982
 #EXTINF:-1,24/7 Looney Toons
 http://rlatinop.com:8880/jonel2026/pcBhGe7KbccQ/520989
 
-#EXTINF:-1,Avengers Edgame
+#EXTINF:-1 group-title="Películas",Avengers Edgame
 http://rlatinop.com:8880/movie/jonel2026/pcBhGe7KbccQ/283856.mkv
 
 #EXTINF:-1,24/7 Cars
@@ -86,19 +86,19 @@ http://vodlat.top:8080/JUF297LUY0/cta27playec/1248
 #EXTINF:-1,Tigo Sport
 https://channel03.tigosports.com.sv/out/v1/31f36d52d558475ca18799d8ca5e4b40/index_5.m3u8
 
-#EXTINF:-1,Transformar El Despertar de las Bestias
+#EXTINF:-1 group-title="Películas",Transformar El Despertar de las Bestias
 http://tvpremium.pro:8080/movie/ilianaargue289/5QYFvdMFZh/1654036.mkv
 
-#EXTINF:-1,Batman y Robin
+#EXTINF:-1 group-title="Películas",Batman y Robin
 http://vodlat.top:8080/movie/Rrodriguez/Robert202304/553447.mp4
 
-#EXTINF:-1,Batman Inicia
+#EXTINF:-1 group-title="Películas",Batman Inicia
 http://vodlat.top:8080/movie/Rrodriguez/Robert202304/553438.mp4
 
-#EXTINF:-1,Batman El caballero de la noche
+#EXTINF:-1 group-title="Películas",Batman El caballero de la noche
 http://vodlat.top:8080/movie/Rrodriguez/Robert202304/553437.mp4
 
-#EXTINF:-1,Batman Regresa
+#EXTINF:-1 group-title="Películas",Batman Regresa
 http://vodlat.top:8080/movie/Rrodriguez/Robert202304/553433.mp4
 
 #EXTINF:-1,24/7 Cantinfl4s
@@ -131,7 +131,7 @@ http://vodlat.top:8080/Rrodriguez/Robert202304/488447
 #EXTINF:-1,24/7 Familia Peluche
 http://vodlat.top:8080/Rrodriguez/Robert202304/484859
 
-#EXTINF:-1,Mentiroso Mentiroso
+#EXTINF:-1 group-title="Películas",Mentiroso Mentiroso
 http://vodlat.top:8080/movie/Rrodriguez/Robert202304/588296.mp4
 
 #EXTINF:-1,24/7 The Walking Dead
@@ -155,13 +155,13 @@ http://rlatinop.com:8880/Ew4wFcudrKs6/mD4EuLWa7yBV/167731
 #EXTINF:-1,Vix + TUDN CHAMPIONS
 http://dsmy37vx.oksdg.xyz:80/live/Amajogal/EFtcj4MJCe@d/1388661.m3u8
 
-#EXTINF:-1,La Momia
+#EXTINF:-1 group-title="Películas",La Momia
 http://rlatinop.com:8880/movie/Ew4wFcudrKs6/mD4EuLWa7yBV/276800.mp4
 
-#EXTINF:-1,La Momia Regresa
+#EXTINF:-1 group-title="Películas",La Momia Regresa
 http://rlatinop.com:8880/movie/Ew4wFcudrKs6/mD4EuLWa7yBV/276801.mp4
 
-#EXTINF:-1,Guardianes de la Bahia
+#EXTINF:-1 group-title="Películas",Guardianes de la Bahia
 http://rlatinop.com:8880/movie/Ew4wFcudrKs6/mD4EuLWa7yBV/263476.mkv
 
 #EXTINF:-1 group-title="Películas",Mortal Kombat (2021)
