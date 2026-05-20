@@ -2,128 +2,50 @@
 #EXT-X-VERSION:3
 #EXT-X-TARGETDURATION:10
 
-#EXTINF:-1,Sky Sports
+#EXTINF:-1 group-title="Deportes",Sky Sports
 http://190.83.9.222:8000/play/ca090/index.m3u8
 
-#EXTINF:-1,ESPN 2 La Liga
+#EXTINF:-1 group-title="Deportes",ESPN 2 La Liga
 http://rlatinop.com:8880/movie/Ew4wFcudrKs6/mD4EuLWa7yBV/259377.mkv
 
-#EXTINF:-1,Espn Arg
+#EXTINF:-1 group-title="Deportes",ESPN Argentina
 http://rlatinop.com:8880/Ew4wFcudrKs6/mD4EuLWa7yBV/327914
 
-#EXTINF:-1,Bein Sport
+#EXTINF:-1 group-title="Deportes",Bein Sport
 http://190.83.9.222:8000/play/ca129/index.m3u8
 
-#EXTINF:-1,Dreamwors
+#EXTINF:-1 group-title="Deportes",ESPN Premier League
+http://tvpremium.pro:8080/ilianaargue289/5QYFvdMFZh/1599545
+
+#EXTINF:-1 group-title="Deportes",Sky Premier League
+http://tvpremium.pro:8080/ilianaargue289/5QYFvdMFZh/24183
+
+#EXTINF:-1 group-title="Deportes",Sky La Liga
+http://dsmy37vx.oksdg.xyz:80/play/Amajogal/EFtcj4MJCe@d/1379872.ts
+
+#EXTINF:-1 group-title="Cine",Dreamworks
 http://tvpremium.pro:8080/ilianaargue289/5QYFvdMFZh/1621249
+
+#EXTINF:-1 group-title="Cine",Sony Cine
+http://rlatinop.com:8880/Ew4wFcudrKs6/mD4EuLWa7yBV/414489
+
+#EXTINF:-1 group-title="Cine",TNT Series HD
+http://vodlat.top:8080/JUF297LUY0/cta27playec/1248
+
+#EXTINF:-1 group-title="Cine",D Sport
+http://rlatinop.com:8880/Ew4wFcudrKs6/mD4EuLWa7yBV/167731
 
 #EXTINF:-1 group-title="Películas",Mario Galaxy
 http://tvpremium.pro:8080/movie/ilianaargue289/5QYFvdMFZh/1947269.mkv
 
-#EXTINF:-1 group-title="Canales 24/7",24/7 Iron Man
-http://tvpremium.pro:8080/ilianaargue289/5QYFvdMFZh/806208
-
-#EXTINF:-1 group-title="Canales 24/7",24/7 Exclusivo Marvel
-http://tvpremium.pro:8080/ilianaargue289/5QYFvdMFZh/789639
-
-#EXTINF:-1 group-title="Canales 24/7",24/7 Disney Películas
-http://tvpremium.pro:8080/ilianaargue289/5QYFvdMFZh/1598520
-
-#EXTINF:-1 group-title="Canales 24/7",24/7 Rápido y Furioso
-http://tvpremium.pro:8080/ilianaargue289/5QYFvdMFZh/458357
-
-#EXTINF:-1 group-title="Canales 24/7",24/7 Will Smitt
-http://tvpremium.pro:8080/ilianaargue289/5QYFvdMFZh/806295
-
-#EXTINF:-1 group-title="Canales 24/7",24/7 Los Mercenarios
-http://tvpremium.pro:8080/ilianaargue289/5QYFvdMFZh/806227
-
-#EXTINF:-1 group-title="Canales 24/7",Marvel 2
-http://rlatinop.com:8880/jonel2026/pcBhGe7KbccQ/520900
-
-#EXTINF:-1 group-title="Canales 24/7",24/7 El Chavo
-http://rlatinop.com:8880/jonel2026/pcBhGe7KbccQ/520908
-
-#EXTINF:-1 group-title="Canales 24/7",24/7 Cantinflas
-http://rlatinop.com:8880/jonel2026/pcBhGe7KbccQ/520910
-
-#EXTINF:-1 group-title="Canales 24/7",24/7 Infantil
-http://rlatinop.com:8880/jonel2026/pcBhGe7KbccQ/520968
-
-#EXTINF:-1 group-title="Canales 24/7",24/7 Icarly
-http://rlatinop.com:8880/jonel2026/pcBhGe7KbccQ/520982
-
-#EXTINF:-1 group-title="Canales 24/7",24/7 Looney Toons
-http://rlatinop.com:8880/jonel2026/pcBhGe7KbccQ/520989
-
-#EXTINF:-1 group-title="Películas",Avengers Edgame
+#EXTINF:-1 group-title="Películas",Avengers Endgame
 http://rlatinop.com:8880/movie/jonel2026/pcBhGe7KbccQ/283856.mkv
-
-#EXTINF:-1 group-title="Canales 24/7",24/7 Cars
-http://tvpremium.pro:8080/ilianaargue289/5QYFvdMFZh/781095
-
-#EXTINF:-1 group-title="Canales 24/7",24/7 La Momia
-http://tvpremium.pro:8080/ilianaargue289/5QYFvdMFZh/806221
-
-#EXTINF:-1,Distrito Comedia
-http://138.59.177.78:9999/play/a005/index.m3u8
-
-#EXTINF:-1,Espn Premier League
-http://tvpremium.pro:8080/ilianaargue289/5QYFvdMFZh/1599545
-
-#EXTINF:-1,Sky Premier League
-http://tvpremium.pro:8080/ilianaargue289/5QYFvdMFZh/24183
-
-#EXTINF:-1,TNT Series HD
-http://vodlat.top:8080/JUF297LUY0/cta27playec/1248
-
-#EXTINF:-1 group-title="Películas",Batman y Robin
-http://vodlat.top:8080/movie/Rrodriguez/Robert202304/553447.mp4
-
-#EXTINF:-1 group-title="Canales 24/7",24/7 Cantinfl4s
-http://vodlat.top:8080/Rrodriguez/Robert202304/484267
-
-#EXTINF:-1 group-title="Canales 24/7",24/7 Transformer
-http://vodlat.top:8080/Rrodriguez/Robert202304/544235
-
-#EXTINF:-1 group-title="Canales 24/7",The Walking Dead sobrevivir
-http://vodlat.top:8080/Rrodriguez/Robert202304/484866
-
-#EXTINF:-1 group-title="Canales 24/7",24/7 piratas del caribe
-http://vodlat.top:8080/Rrodriguez/Robert202304/488443
-
-#EXTINF:-1 group-title="Canales 24/7",DC Comic
-http://vodlat.top:8080/Rrodriguez/Robert202304/488440
-
-#EXTINF:-1 group-title="Canales 24/7",24/7 Destino Final
-http://vodlat.top:8080/Rrodriguez/Robert202304/499292
-
-#EXTINF:-1 group-title="Canales 24/7",24/7 Robocop
-http://vodlat.top:8080/Rrodriguez/Robert202304/488434
-
-#EXTINF:-1 group-title="Canales 24/7",24/7 Marvel
-http://vodlat.top:8080/Rrodriguez/Robert202304/484487
-
-#EXTINF:-1 group-title="Canales 24/7",24/7 Rápidos y Furiosos
-http://vodlat.top:8080/Rrodriguez/Robert202304/488447
-
-#EXTINF:-1 group-title="Canales 24/7",24/7 Familia Peluche
-http://vodlat.top:8080/Rrodriguez/Robert202304/484859
-
-#EXTINF:-1 group-title="Películas",Mortal kombat II 
-http://mundo2.vip:80/movie/xifd804823/070423vbc/532244
-
-#EXTINF:-1 group-title="Canales 24/7",24/7 Clásicos de Disney
-http://rlatinop.com:8880/Ew4wFcudrKs6/mD4EuLWa7yBV/520969
 
 #EXTINF:-1 group-title="Películas",Avengers 2012
 http://tvpromas.com:2082/movie/stkpahe/2597/136564.mp4
 
-#EXTINF:-1,Sony Cine
-http://rlatinop.com:8880/Ew4wFcudrKs6/mD4EuLWa7yBV/414489
-
-#EXTINF:-1,D Sport
-http://rlatinop.com:8880/Ew4wFcudrKs6/mD4EuLWa7yBV/167731
+#EXTINF:-1 group-title="Películas",Batman y Robin
+http://vodlat.top:8080/movie/Rrodriguez/Robert202304/553447.mp4
 
 #EXTINF:-1 group-title="Películas",La Momia
 http://rlatinop.com:8880/movie/Ew4wFcudrKs6/mD4EuLWa7yBV/276800.mp4
@@ -134,8 +56,77 @@ http://rlatinop.com:8880/movie/Ew4wFcudrKs6/mD4EuLWa7yBV/263476.mkv
 #EXTINF:-1 group-title="Películas",Mortal Kombat (2021)
 http://rlatinop.com:8880/movie/Ew4wFcudrKs6/mD4EuLWa7yBV/259377.mkv
 
-#EXTINF:-1,Sky la liga vix
-http://dsmy37vx.oksdg.xyz:80/play/Amajogal/EFtcj4MJCe@d/1379872.ts
+#EXTINF:-1 group-title="Películas",Mortal Kombat II
+http://mundo2.vip:80/movie/xifd804823/070423vbc/532244
 
-#EXTINF:-1 group-title="Películas",F1
-http://dsmy37vx.oksdg.xyz:80/movie/Amajogal/EFtcj4MJCe@d/1225679.mkv
+#EXTINF:-1 group-title="Series 24/7",24/7 Iron Man
+http://tvpremium.pro:8080/ilianaargue289/5QYFvdMFZh/806208
+
+#EXTINF:-1 group-title="Series 24/7",24/7 Marvel
+http://tvpremium.pro:8080/ilianaargue289/5QYFvdMFZh/789639
+
+#EXTINF:-1 group-title="Series 24/7",24/7 Disney Películas
+http://tvpremium.pro:8080/ilianaargue289/5QYFvdMFZh/1598520
+
+#EXTINF:-1 group-title="Series 24/7",24/7 Rápido y Furioso
+http://tvpremium.pro:8080/ilianaargue289/5QYFvdMFZh/458357
+
+#EXTINF:-1 group-title="Series 24/7",24/7 Will Smith
+http://tvpremium.pro:8080/ilianaargue289/5QYFvdMFZh/806295
+
+#EXTINF:-1 group-title="Series 24/7",24/7 Los Mercenarios
+http://tvpremium.pro:8080/ilianaargue289/5QYFvdMFZh/806227
+
+#EXTINF:-1 group-title="Series 24/7",24/7 Cars
+http://tvpremium.pro:8080/ilianaargue289/5QYFvdMFZh/781095
+
+#EXTINF:-1 group-title="Series 24/7",24/7 La Momia
+http://tvpremium.pro:8080/ilianaargue289/5QYFvdMFZh/806221
+
+#EXTINF:-1 group-title="Infantil",24/7 Infantil
+http://rlatinop.com:8880/jonel2026/pcBhGe7KbccQ/520968
+
+#EXTINF:-1 group-title="Infantil",24/7 iCarly
+http://rlatinop.com:8880/jonel2026/pcBhGe7KbccQ/520982
+
+#EXTINF:-1 group-title="Infantil",24/7 Looney Toons
+http://rlatinop.com:8880/jonel2026/pcBhGe7KbccQ/520989
+
+#EXTINF:-1 group-title="Clásicos",24/7 El Chavo
+http://rlatinop.com:8880/jonel2026/pcBhGe7KbccQ/520908
+
+#EXTINF:-1 group-title="Clásicos",24/7 Cantinflas
+http://rlatinop.com:8880/jonel2026/pcBhGe7KbccQ/520910
+
+#EXTINF:-1 group-title="Clásicos",24/7 Clásicos de Disney
+http://rlatinop.com:8880/Ew4wFcudrKs6/mD4EuLWa7yBV/520969
+
+#EXTINF:-1 group-title="Comedia",Distrito Comedia
+http://138.59.177.78:9999/play/a005/index.m3u8
+
+#EXTINF:-1 group-title="Acción",24/7 Transformer
+http://vodlat.top:8080/Rrodriguez/Robert202304/544235
+
+#EXTINF:-1 group-title="Acción",The Walking Dead sobrevivir
+http://vodlat.top:8080/Rrodriguez/Robert202304/484866
+
+#EXTINF:-1 group-title="Acción",24/7 Piratas del Caribe
+http://vodlat.top:8080/Rrodriguez/Robert202304/488443
+
+#EXTINF:-1 group-title="Acción",DC Comic
+http://vodlat.top:8080/Rrodriguez/Robert202304/488440
+
+#EXTINF:-1 group-title="Acción",24/7 Destino Final
+http://vodlat.top:8080/Rrodriguez/Robert202304/499292
+
+#EXTINF:-1 group-title="Acción",24/7 Robocop
+http://vodlat.top:8080/Rrodriguez/Robert202304/488434
+
+#EXTINF:-1 group-title="Acción",24/7 Rápidos y Furiosos
+http://vodlat.top:8080/Rrodriguez/Robert202304/488447
+
+#EXTINF:-1 group-title="Familia",24/7 Familia Peluche
+http://vodlat.top:8080/Rrodriguez/Robert202304/484859
+
+#EXTINF:-1 group-title="Marvel",Marvel 2
+http://rlatinop.com:8880/jonel2026/pcBhGe7KbccQ/520900
